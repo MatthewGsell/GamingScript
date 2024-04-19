@@ -1,0 +1,11 @@
+C:\Users\matth\source\repos\StartGamin\StartGamin\bin\Debug\StartGamin.exe.config
+C:\Users\matth\source\repos\StartGamin\StartGamin\bin\Debug\StartGamin.exe
+C:\Users\matth\source\repos\StartGamin\StartGamin\bin\Debug\StartGamin.pdb
+C:\Users\matth\source\repos\StartGamin\StartGamin\obj\Debug\StartGamin.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\StartGamin\StartGamin\obj\Debug\StartGamin.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\StartGamin\StartGamin\obj\Debug\StartGamin.exe
+C:\Users\matth\source\repos\StartGamin\StartGamin\obj\Debug\StartGamin.pdb
+C:\Users\matth\source\repos\StartGamin\StartGamin\bin\Debug\StartGamin.exe.manifest
+C:\Users\matth\source\repos\StartGamin\StartGamin\bin\Debug\StartGamin.application
+C:\Users\matth\source\repos\StartGamin\StartGamin\obj\Debug\StartGamin.exe.manifest
+C:\Users\matth\source\repos\StartGamin\StartGamin\obj\Debug\StartGamin.application
